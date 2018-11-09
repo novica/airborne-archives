@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - drupal</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/101</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Zemanta конечно на блогов...</title>
+ <link>http://novica.discindo.org/mk/node/420</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/1&quot;&gt;блог&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/57&quot;&gt;web2.0&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/101&quot;&gt;drupal&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/102&quot;&gt;zemanta&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;zemanta-img&quot; style=&quot;margin: 1em; float: right; display: block; width: 212px;&quot;&gt;&lt;a href=&quot;http://commons.wikipedia.org/wiki/Image:Druplicon.vector.svg&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Druplicon.vector.svg/202px-Druplicon.vector.svg.png&quot; alt=&quot;Drupal&quot; style=&quot;border: medium none ; display: block;&quot; height=&quot;115&quot; width=&quot;101&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;p class=&quot;zemanta-img-attribution&quot; style=&quot;font-size: 0.8em;&quot;&gt;Image via &lt;a href=&quot;http://commons.wikipedia.org/wiki/Image:Druplicon.vector.svg&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;После неколко часовно ловење на проблемот зошто &lt;a class=&quot;zem_slink&quot; href=&quot;http://www.zemanta.com&quot; title=&quot;Zemanta&quot; rel=&quot;homepage&quot;&gt;Zemanta&lt;/a&gt; не се појавува на мојов &lt;a class=&quot;zem_slink&quot; href=&quot;http://drupal.org&quot; title=&quot;Drupal&quot; rel=&quot;homepage&quot;&gt;Drupal&lt;/a&gt;, конечно открив дека работата била во различните теми во администраторскиот дел и овој главнот што се гледа додека се суфра на блогот. &lt;/p&gt;
+&lt;p&gt;Како и да е, ова конечно работи и еве ќе залепам неколку сликички да видиме како изгледа ова.&lt;/p&gt;
+&lt;div style=&quot;margin-top: 10px; height: 15px;&quot; class=&quot;zemanta-pixie&quot;&gt;&lt;a class=&quot;zemanta-pixie-a&quot; href=&quot;http://reblog.zemanta.com/zemified/496db145-0131-4461-964e-dc0adf3dfc38/&quot; title=&quot;Zemified by Zemanta&quot;&gt;&lt;img style=&quot;border: medium none ; float: right;&quot; class=&quot;zemanta-pixie-img&quot; src=&quot;http://img.zemanta.com/reblog_e.png?x-id=496db145-0131-4461-964e-dc0adf3dfc38&quot; alt=&quot;Reblog this post [with Zemanta]&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 31 Jan 2009 21:01:41 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">420 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/420#comments</comments>
+</item>
+</channel>
+</rss>

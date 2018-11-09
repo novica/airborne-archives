@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - linux</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/18</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Колку чини Линукс кернелот?</title>
+ <link>http://novica.discindo.org/mk/node/17</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/18&quot;&gt;linux&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Приказнава започнува навистина интересно. Извесен Jeff V. Merkey на 7ми октомври понудил 50.000 долари на линукс кернел мејлинг листата за да добие копија од кернелот под БСД лиценца (која што подоцна може да ја направи неслободна - хехе). Неговата понуда била веднаш одбиена, и за тоа нема што повеќе да се зборува. Интересното е што понудава била повод да се пресмета колку навистина чини кернелот.&lt;/p&gt;
+&lt;p&gt;Првичната пресметка е дека чинел некаде околу 176 милиони долари. Но, Дејвид Вилер се помачил и пресметал дека за да се направи 2.6 линукс кернелот во овој момент во еден затворен систем потребни се 612 милиони долари. Така вистинската вредност на кернелот е некаде во милијарди. (Логично нели, бидејќи за да се исплати да го правиш цената на чинење треба да биде поголема од вредноста која ќе ја оствари производот на пазарот.)&lt;/p&gt;
+&lt;p&gt;И сега, замислете, вие си возите такво кернелче за беспари. Добра ли е слободата или не? &lt;/p&gt;
+&lt;p&gt;Текстот е &lt;a href=&quot;http://www.dwheeler.com/essays/linux-kernel-cost.html&quot;&gt;тука&lt;/a&gt;. И ако по некоја случајност ви се чита уште нешто од Вилер &lt;a href=&quot;http://www.dwheeler.com/oss_fs_why.html&quot;&gt;ова&lt;/a&gt; не смеете да го пропуштите.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 15 Oct 2004 12:56:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">17 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/17#comments</comments>
+</item>
+</channel>
+</rss>

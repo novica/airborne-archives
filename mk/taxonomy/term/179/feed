@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - drm</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/179</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Future versions of Mozilla Firefox will have DRM</title>
+ <link>http://novica.discindo.org/mk/node/762</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/3&quot;&gt;mozilla&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/20&quot;&gt;firefox&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/179&quot;&gt;drm&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/180&quot;&gt;free software&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This probably is the news of the year: Mozilla will adopt DRM in future versions of Firefox for Desktop.&lt;/p&gt;
+&lt;p&gt;What Mithcell Baker says: &lt;a href=&quot;https://blog.mozilla.org/blog/2014/05/14/drm-and-the-challenge-of-serving-users/&quot;&gt;DRM and the Challenge of Serving Users&lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;What Andreas Gal says: &lt;a href=&quot;https://hacks.mozilla.org/2014/05/reconciling-mozillas-mission-and-w3c-eme/&quot;&gt;Reconciling Mozilla’s Mission and W3C EME&lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;What the FSF says: &lt;a href=&quot;https://fsf.org/news/fsf-condemns-partnership-between-mozilla-and-adobe-to-support-digital-restrictions-management&quot;&gt;FSF condemns partnership between Mozilla and Adobe to support Digital Restrictions Management &lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;What Cory Doctorow says: &lt;a href=&quot;http://www.theguardian.com/technology/2014/may/14/firefox-closed-source-drm-video-browser-cory-doctorow&quot;&gt;Firefox’s adoption of closed-source DRM breaks my heart&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Having spent the &lt;a href=&quot;http://firefoxos.mozilla.mk/&quot;&gt;last weekend&lt;/a&gt; talking about the values and mission of Mozilla I can only echo Cory&#039;s sentiment. &lt;/p&gt;
+&lt;p&gt;Looking back on 15 years of advocating for computer user&#039;s freedom, I find the claim that everyone can choose not to activate DRM in their Firefox unconvincing and weak. Users either know a lot and can deal with whatever the software vendor throws at them (so, yeah, some people may even build a DRM free Firefox), or don&#039;t know much and use whatever is shipped to them. I always thought that the latter is the reason why we constantly need someone to things differently - or in the right way. This decision reinforces that belief.&lt;/p&gt;
+&lt;p&gt;Other reactions -- linked here for future reference:&lt;br /&gt;
+Bradley Kuhn - &lt;a href=&quot;http://ebb.org/bkuhn/blog/2014/05/14/to-serve-users.html&quot;&gt;To Serve Users&lt;/a&gt;;&lt;br /&gt;
+Gervase Markham - &lt;a href=&quot;http://blog.gerv.net/2014/05/to-serve-users/&quot;&gt;To Serve Users&lt;/a&gt;;&lt;br /&gt;
+Ben Moskowitz - &lt;a href=&quot;http://www.benmoskowitz.com/?p=982&quot;&gt;The Web Is Changing&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;en first last&quot;&gt;&lt;a href=&quot;/en/node/762&quot; class=&quot;language-link&quot; xml:lang=&quot;en&quot;&gt;English&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Thu, 15 May 2014 08:52:16 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">762 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/762#comments</comments>
+</item>
+</channel>
+</rss>

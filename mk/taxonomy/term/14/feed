@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - трикови</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/14</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Wikipedia Art</title>
+ <link>http://novica.discindo.org/mk/node/423</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/14&quot;&gt;трикови&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/36&quot;&gt;идеи&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/49&quot;&gt;уметност&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/104&quot;&gt;wikipedia&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Група уметници се обиделе да направат мудар трик (и не знам дали ова е добар опис) на Википедија, со тоа што ќе направат само-референцирачки текст за Википедија уметност...&lt;/p&gt;
+&lt;p&gt;Нивниот обид завршил со брзо бришење од еден администратор, и сега покрај дебатата дали текстот е таков каков што треба да биде за на Википедија, има и дебата дали се испочитувани правилата за бришење на статии на енциклопедијата.&lt;/p&gt;
+&lt;p&gt;Исто така интересно е што на википедија страницата за концептуална уметност е додадена референца за овој обид, но и таа е брзо избришана.&lt;/p&gt;
+&lt;p&gt;Целата работа ја имааат документирано детално:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://wikipediaart.org/&quot;&gt;http://wikipediaart.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://wikipediaart.org/brief-history/&quot;&gt;http://wikipediaart.org/brief-history/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://wikipediaart.org/wiki/index.php?title=Main_Page&quot;&gt;http://wikipediaart.org/wiki/index.php?title=Main_Page&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 18 Feb 2009 22:17:07 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">423 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/423#comments</comments>
+</item>
+<item>
+ <title>Прљави трикови во KMail</title>
+ <link>http://novica.discindo.org/mk/node/69</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/14&quot;&gt;трикови&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/25&quot;&gt;gnu-linux&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;KMail, веројатно како и сите други клиентски апликации за е-пошта, има опција Compact Folder. Откако ќе ја прими оваа наредба, KMail фактички ги брише и преместува и средува пораките во папката што сте ја избрале. Ова всушност е и основното (default) однесување на KMail и без корисникот да ја даде оваа наредба.&lt;/p&gt;
+&lt;p&gt;Сепак, сето ова не важи за влезното сандаче (inbox-от). Пораката која KMail ја враќа е дека „компактирањето“ не може да се изврши од безбедносни причини. Кај мене inbox-от е единствената папка (датотека) на која реално и треба „компактирање“. Спамот стига таму и се друго.&lt;/p&gt;
+&lt;p&gt;Така, за да го средам inbox-от, го ископирав во датотека со ново име, заедно со се .inbox.index* датотеките, и ја „компактирав“ новата датотека. Потоа го избришав стариот, а новата датотека стана нов inbox. Вчера inbox-от беше 75MB, а денес е 27MB. Ќарив 50 мегабајти... јухууууу!&lt;/p&gt;
+&lt;p&gt;И, не знам дали ова е bug или feature, ама ова е начинот да се заобиколи. :)&lt;/p&gt;
+&lt;p&gt;П.С. Дамјан вика дека овој проблем го нема ако си изберете пораките да ги чувате во maildir, наместо во mbox.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 08 Feb 2006 20:36:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">69 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/69#comments</comments>
+</item>
+<item>
+ <title>Линукс.нет.мк: upgrading...</title>
+ <link>http://novica.discindo.org/mk/node/10</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/14&quot;&gt;трикови&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Пошто Томе (мртва врска) одлучил да спомне нешто, еве јас да појаснам. Сабејлечки кликам на &lt;a href=&quot;http://linux.net.mk&quot;&gt;linux.net.mk&lt;/a&gt; обележувачот, и оп, гледам албански знамиња и други обележја на страната. Си мислам некој да не се зезал, му ѕвонам на Стојмир и констатираме дека станува збор за the real thing. &lt;/p&gt;
+&lt;p&gt;Испаѓа дека извесен mhz искористил некој (додуше прилично стар) exploit и го рокнал сајтот. Пото брзо, брзо се пофалил (&lt;a hef=&quot;http://www.tifozat.com/forum/&quot;&gt;затворен форум&lt;/a&gt;) кај другарите. Таму ќе видите и кој се друг бил жртва на малата вжештена глава. &lt;/p&gt;
+&lt;p&gt;Искрено не верувам дека mhz  е од Македонија, но кога би дознале дека е, радо би му стегнале една тужба. И така новиот кривичен закон е добро среден за ваквиот криминал.&lt;/p&gt;
+&lt;p&gt;А да, и две слики  од кракот:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://picasaweb.google.com/nnovica/ihrdWE/photo#5235972630156153442&quot;&gt;&lt;img src=&quot;http://lh3.ggpht.com/nnovica/SKnpXaIgEmI/AAAAAAAABQw/aRqz3l9L7mU/s144/screen1.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://picasaweb.google.com/nnovica/ihrdWE/photo#5235972632917627042&quot;&gt;&lt;img src=&quot;http://lh4.ggpht.com/nnovica/SKnpXka40KI/AAAAAAAABQ4/gz9AecAAwsM/s144/screen2.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 14 Sep 2004 12:03:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">10 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/10#comments</comments>
+</item>
+</channel>
+</rss>

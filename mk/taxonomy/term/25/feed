@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - gnu-linux</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/25</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>(Само што) излезе Ubuntu 7.10</title>
+ <link>http://novica.discindo.org/mk/node/270</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/25&quot;&gt;gnu-linux&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Што ќутите?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ubuntu.com/download/desktop&quot;&gt;http://www.ubuntu.com/download/desktop&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 18 Oct 2007 11:33:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">270 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/270#comments</comments>
+</item>
+<item>
+ <title>Уште една игра за GNU/Linux</title>
+ <link>http://novica.discindo.org/mk/node/153</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/25&quot;&gt;gnu-linux&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/64&quot;&gt;игри&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Не дека би ја играл, но за оние кои се љубители на 3-д замислени светови, можеби ќе биде интересно да дознаат дека од &lt;a href=&quot;http://secondlife.com/&quot;&gt;Second Life&lt;/a&gt; (што е &lt;a href=&quot;http://secondlife.com/whatis/&quot;&gt;Second Life?&lt;/a&gt;) одлучиле да го &lt;a href=&quot;http://blog.secondlife.com/2007/01/08/embracing-the-inevitable/&quot;&gt;прифатат неизбежното&lt;/a&gt; и да го издадат клиентот за играта под GNU GPL v.2. Така, веројатно за некое време, ќе се појави и клиент што ќе си работи убаво во GNU/Linux.&lt;/p&gt;
+&lt;p&gt;Уште една игрица во инаку досадниот за гејмери оперативен систем.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 20 Jan 2007 08:33:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">153 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/153#comments</comments>
+</item>
+<item>
+ <title>Прљави трикови во KMail</title>
+ <link>http://novica.discindo.org/mk/node/69</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/14&quot;&gt;трикови&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/25&quot;&gt;gnu-linux&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;KMail, веројатно како и сите други клиентски апликации за е-пошта, има опција Compact Folder. Откако ќе ја прими оваа наредба, KMail фактички ги брише и преместува и средува пораките во папката што сте ја избрале. Ова всушност е и основното (default) однесување на KMail и без корисникот да ја даде оваа наредба.&lt;/p&gt;
+&lt;p&gt;Сепак, сето ова не важи за влезното сандаче (inbox-от). Пораката која KMail ја враќа е дека „компактирањето“ не може да се изврши од безбедносни причини. Кај мене inbox-от е единствената папка (датотека) на која реално и треба „компактирање“. Спамот стига таму и се друго.&lt;/p&gt;
+&lt;p&gt;Така, за да го средам inbox-от, го ископирав во датотека со ново име, заедно со се .inbox.index* датотеките, и ја „компактирав“ новата датотека. Потоа го избришав стариот, а новата датотека стана нов inbox. Вчера inbox-от беше 75MB, а денес е 27MB. Ќарив 50 мегабајти... јухууууу!&lt;/p&gt;
+&lt;p&gt;И, не знам дали ова е bug или feature, ама ова е начинот да се заобиколи. :)&lt;/p&gt;
+&lt;p&gt;П.С. Дамјан вика дека овој проблем го нема ако си изберете пораките да ги чувате во maildir, наместо во mbox.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 08 Feb 2006 20:36:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">69 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/69#comments</comments>
+</item>
+<item>
+ <title>Успешни приказни за слободниот софтвер</title>
+ <link>http://novica.discindo.org/mk/node/60</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/25&quot;&gt;gnu-linux&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Приказнава е за брат ми. Брат ми е научник - диатомолог, што ќе рече многу-многу не го боли за компјутери, софтвери, слободни или не. Било како било, ми доаѓа брат ми пред некое време и ми вика да му го средам компјутерот што го користи на факултет: &lt;em&gt;„Ај среди го компјутеров, да не фаќа вируси, да сурфам без п*рно прозорчиња да ми скокаат додека читам некој труд.“&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Бидејќи мене сѐ уште не ми е стигната маичката од ТинкГик со текст &quot;No, I won&#039;t fix your computer&quot;, не ми преостануваше ништо освен да речам океј: &lt;em&gt;„Океј.“&lt;/em&gt; И така, едно саботно претпладне пред некои 2-3 недели јас седнав да го средам компјутерот.&lt;/p&gt;
+&lt;p&gt;Да, инсталирав Слеквер. Брат ми веќе некое време прави рекорди дома во Kasteroids, па запознаен е со излгедот и чувството на KDE. Му реков дека се ќе му биде исто како дома: &lt;em&gt;„Куме, се ќе ти биде исто како дома. Без вируси, на кирилица, на македонски.“&lt;/em&gt;&lt;br /&gt;
+Целата работа траеше не повеќе од 2 часа. Се работеше од прва. Немаше проблеми со хардвер. За момент се изнервирав за звукот, мислев дека alsa-та пак нешто заебава ама брзо ми текна дека сум заборавил да ги вклучам звучниците. Ги вклучив и се си работеше.&lt;/p&gt;
+&lt;p&gt;Така, по 2 часа, му велам на брат ми дека се е готово: &lt;em&gt;„Средено куме, се ти работи.“&lt;/em&gt; Ама малиот шизик, доаѓа и ме известува дека сакал и некој софтвер за правење некои биолошки чуда, анализи, дрва и не знам што: &lt;em&gt;„Слушај, а да ми најдеш некое софтверче што за правење филогенетска анализа?“&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;„Што е тоа?“&lt;/em&gt;И ми објаснува сега дека тоа ти било некое софтверче во кое си внесуваш податоци за биолошки карактеристики на разни родови и видови, па ти се прават дрва, па подредуваш, па &#039;рчкаш таму-ваму и на крај излегува научен труд.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;„Еве за да правам вакви работи.“&lt;/em&gt; - објаснува брат ми, покажувајќи на некоја книга со американско потекло.&lt;/p&gt;
+&lt;p&gt;Мене сеуште не ми е јасно, па одлучувам да го прашам Google. Тој фино ме упатува на &lt;a href=&quot;http://www.mesquiteproject.org/mesquite/mesquite.html&quot;&gt;Mesquite&lt;/a&gt; (Миша, фала за download!). И што да видам! Уште едно парче слободен софтвер (LGPL) кое што прави се што му треба на брат ми, иако за да го дознаам последново требаше да поминат десетина дена додека тој го проучи софтверчето.&lt;/p&gt;
+&lt;p&gt;Сега, додека го чекам пивото-награда за вложениот напор, го пишувам ова на блог. GNU/Linux има уште еден нов среќен корисник.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 20 Nov 2005 11:31:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">60 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/60#comments</comments>
+</item>
+<item>
+ <title>Втор инсталациски фестивал</title>
+ <link>http://novica.discindo.org/mk/node/28</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/5&quot;&gt;македонија&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/8&quot;&gt;заедница&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/25&quot;&gt;gnu-linux&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Ете да кажам само дека инсталацискиот фестивал е во тек и се одвива прилично солидно.&lt;/p&gt;
+&lt;p&gt;И интернетов на ЕТФ не е лош. :)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 Apr 2005 13:56:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">28 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/28#comments</comments>
+</item>
+</channel>
+</rss>

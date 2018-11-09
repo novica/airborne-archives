@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - jabber</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/42</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Догледање icq/aim...</title>
+ <link>http://novica.discindo.org/mk/node/395</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/42&quot;&gt;jabber&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/59&quot;&gt;технологија&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/95&quot;&gt;IM&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Денес &lt;a href=&quot;http://www.softver.org.mk/damjan/jabber&quot;&gt;џабер&lt;/a&gt; серверот bagra.net.mk беше надграден.&lt;/p&gt;
+&lt;p&gt;Меѓу другото, надградбата бара повторна регистрација на транспорите за другите сервиси како AIM, MSN и сл.&lt;/p&gt;
+&lt;p&gt;Повторната регистрација сепак не е можна ако не ги знаете лозинката и адресата со која сте се регистирале. И токму тие две работи јас не ги паметам за мојата ICQ сметка.&lt;/p&gt;
+&lt;p&gt;Па, до сите оние кои можеби ме имаат како контакт на icq/aim: нема повеќе да се појавувам таму. :)&lt;/p&gt;
+&lt;p&gt;Да живее џабер! (Додека си ја знам лозинката. :))&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 13 Nov 2008 22:14:03 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">395 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/395#comments</comments>
+</item>
+<item>
+ <title>Мапа на jabber сервери</title>
+ <link>http://novica.discindo.org/mk/node/53</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/16&quot;&gt;интернет&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/42&quot;&gt;jabber&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Само-објаснувачка интернет врска: &lt;a href=&quot;http://ralphm.net/world&quot;&gt;http://ralphm.net/world&lt;/a&gt; [врската е освежена во 2013 кон страница што работи].&lt;/p&gt;
+&lt;p&gt;Само нема ниеден сервер од Македонија. :(&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 22 Oct 2005 10:26:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">53 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/53#comments</comments>
+</item>
+</channel>
+</rss>

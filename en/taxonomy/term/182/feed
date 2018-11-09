@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - public debt</title>
+ <link>http://novica.discindo.org/en/taxonomy/term/182</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Macedonian web-app of the year </title>
+ <link>http://novica.discindo.org/en/node/765</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/149&quot;&gt;macedonia&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/182&quot;&gt;public debt&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/183&quot;&gt;finance&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/151&quot;&gt;censorhsip&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;In September 2014, a short lived blog on Blogspot was reported as spam and as a result switched of. It lasted for a day. It was a blog with live information on the public debt in Macedonia.&lt;/p&gt;
+&lt;p&gt;A twitter user reacted with urgency and here it is -- the github repo of the code that can display Macedonia&#039;s public debt, a closely guarded secret of the Governmetn: &lt;a href=&quot;https://github.com/mopkobot/JavenDolg&quot;&gt;https://github.com/mopkobot/JavenDolg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The page is live on &lt;a href=&quot;http://javendolgmkd.herokuapp.com&quot;&gt;http://javendolgmkd.herokuapp.com&lt;/a&gt; and  &lt;a href=&quot;http://javendolgmk.herokuapp.com&quot;&gt;http://javendolgmk.herokuapp.com&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;Developers at large, please consider making an Android / iOS app too.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 11 Nov 2014 21:58:24 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">765 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/765#comments</comments>
+</item>
+</channel>
+</rss>

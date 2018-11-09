@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - thunderbird</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/35</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Firefox/Thunderbird 2.0</title>
+ <link>http://novica.discindo.org/mk/node/107</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/20&quot;&gt;firefox&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/35&quot;&gt;thunderbird&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Со само 4 часа спиење, викендов успеав да ги доведам новите en-US датотеки во преведибилна состојба, и ако не биде ептен жешко деновиве ќе ги средам новите околу 1000 стрингови за да имаме бети за тестирање на македонски јазик.&lt;/p&gt;
+&lt;p&gt;Целата процедура беше прилилно tricky и сега некој да ме праша како да го повторам процесот, веројатно ќе го гледам бело (фала богу дека не документирав ништо). :)&lt;/p&gt;
+&lt;p&gt;Било како било, си мислам ова да биде мојата последна активност околу локализацијата на мозилини апликации, и палката за следните верзии да ја преземе некој друг. Па, ете, ова нека биде и повик за идни заинтересирани одржувачи на преводот на Firefox и Thunderbird.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 17 Jul 2006 12:41:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">107 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/107#comments</comments>
+</item>
+<item>
+ <title>Фајрфокс и Тандрбрд 1.5 бета на македонски јазик</title>
+ <link>http://novica.discindo.org/mk/node/40</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/3&quot;&gt;mozilla&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/20&quot;&gt;firefox&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/35&quot;&gt;thunderbird&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Драги сурфери,&lt;/p&gt;
+&lt;p&gt;Од билд серверите на Мозила.орг излегоа Фајрфокс и Тандрбрд 1.5 бета на македонски јазик за МСВиндоус и ГНУ/Линукс.&lt;/p&gt;
+&lt;p&gt;Времето до конечното издание на стабилните 1.5 верзии е одбројано, и отприлика имаме 2 недели за правење на било какви поправки на преводите. Затоа, ова е повик до сите оние кои имаат малку слободно време и можност да ги преземат апликациите, да помогнат да се тестираат преводите на ФФ и ТБ. Во случајот на ТБ, потребно е и тестирање на алатката за проверка на правопис (spellcheck) за македонски јазик. Па напишете и некоја порака. :)&lt;/p&gt;
+&lt;p&gt;Билдовите може да се преземат од &lt;a href=&quot;https://ftp.mozilla.org/pub/mozilla.org/&quot;&gt;FTP-то на Мозила.орг&lt;/a&gt; и тоа.&lt;/p&gt;
+&lt;p&gt;И таму ги барате оние кои во своето име содржат mk.&lt;/p&gt;
+&lt;p&gt;Ако одлучите да ги тестирате овие апликации, имајте на ум дека тоа се сеуште бета верзии, кои веројатно не се многу стабилни и/или имаат многу багови. Така, немојте да работите важни работи со нив, немојте комплетно да ги замените апликациите кои во моментот ги користите за сурфање/читање пошта (ќе го направите тоа кога ќе излезат стабилните 1.5 верзии! :)).&lt;/p&gt;
+&lt;p&gt;Откако ќе ги инсталирате апликациите прво нешто што можете да го направите е стандардниот тест кој го препорачува Мозила.орг. Ако ви се причини дека тестот е долг, тогаш тестирајте додека можете и потоа кажете до кај сте стигнале.&lt;/p&gt;
+&lt;p&gt;Евиденција за грешките во преводите на ФФ и ТБ водиме на flyspray. Таму можете да ги видите и досега пријавените грешки, поделени по апликации, па така ќе знаете дали нешто што вие сте пронашле веќе е пријавено или не. Внимавајте! Пријавувајте ги грешките во соодветните проекти, за известувања за истите да стигнуваат до луѓето кои се одговорни за нив.&lt;/p&gt;
+&lt;p&gt;Ако системот за пријавување грешки ви се чини сложен, тогаш можете да пишете е-пошта до nnovica_AT_gmail.com. Ако го правите тоа, тогаш во темата на пораката (Subject) внесете [l10n] Firefox/Thunderbird 1.5, а во телото на пораката наведете информации во следниов формат:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Апликација: ФФ&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Опис: Голтната буква&lt;/p&gt;
+&lt;p&gt;Стринг: Обележи ја станицата&lt;/p&gt;
+&lt;p&gt;Промени во: Обележи ја страницата&lt;/p&gt;
+&lt;p&gt;Се наоѓа во: Контекст мени кое се гледа со десен клик на веб страна.&lt;/p&gt;
+&lt;p&gt;Пријавувајте преводи со грешки, нејасни преводи или давајте предлози за подобри јазични решенија. Сакаме преводите на овие две апликации да станат што е можно подобри и во духот на нашиот јазик.&lt;/p&gt;
+&lt;p&gt;Луѓето кои помогнаа да се преведат овие апликации, заедно со Слободен софтвер Македонија, однапред ви се заблагодаруваат за помошта.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 18 Aug 2005 00:41:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">40 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/40#comments</comments>
+</item>
+<item>
+ <title>Како до ФФ и ТБ 1.X (каде X != 0)?</title>
+ <link>http://novica.discindo.org/mk/node/39</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/3&quot;&gt;mozilla&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/20&quot;&gt;firefox&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/35&quot;&gt;thunderbird&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Одлучив вака претпразнично да изблогирам за планот за добивање на локализирана верзија на следните major верзии на ФФ и ТБ. Едно од побитните прашања е корисноста на .po фајловите кои минатиот пат ми се чинеа екстремно супер, ама сега нивната судбина ми е матна. Според некои информации иако ФФ сеуште не е во стринг фриз, сепак се прават напори промените да бидат минимални. Се надевам дека и за ТБ ситуацијата е слична. Како и да е, следново (кога-тогаш) треба да се направи:&lt;/p&gt;
+&lt;p&gt;1. Сркање на cvs на Мозила со најсвежите работи и тоа:&lt;/p&gt;
+&lt;p&gt;За ФФ:&lt;/p&gt;
+&lt;p&gt;mozilla/browser/locales/en-US&lt;/p&gt;
+&lt;p&gt;mozilla/extensions/reporter/locales/en-US&lt;/p&gt;
+&lt;p&gt;mozilla/other-licenses/branding/firefox/locales/en-US&lt;/p&gt;
+&lt;p&gt;За ФФ и ТБ:&lt;/p&gt;
+&lt;p&gt;mozilla/dom/locales/en-US&lt;/p&gt;
+&lt;p&gt;mozilla/netwerk/locales/en-US&lt;/p&gt;
+&lt;p&gt;mozilla/security/manager/locales/en-US&lt;/p&gt;
+&lt;p&gt;mozilla/toolkit/locales/en-US&lt;/p&gt;
+&lt;p&gt;За ТБ:&lt;/p&gt;
+&lt;p&gt;mozilla/editor/ui/locales/en-US&lt;/p&gt;
+&lt;p&gt;mozilla/mail/locales/en-US&lt;/p&gt;
+&lt;p&gt;mozilla/other-licenses/branding/thunderbird/locales/en-US&lt;/p&gt;
+&lt;p&gt;2. Спојување на преводите и оригиналите на ФФ и ТБ 1.0.x според истата структура. Ова важи и за направените .po датотеки и за .dtd и .properties датотеките.&lt;/p&gt;
+&lt;p&gt;3. DIFF* на en-US за 1.X и en-US за 1.0.x.&lt;/p&gt;
+&lt;p&gt;4. PATCH* на mk-MK за 1.0.x.&lt;/p&gt;
+&lt;p&gt;5. Проценка на големината на промените и проценка дали е потребна pot/po конверзија.&lt;/p&gt;
+&lt;p&gt;6. Локализација, тестирање, поправки, тестирање, поправки...&lt;/p&gt;
+&lt;p&gt;7. Качување ствари во cvs.&lt;/p&gt;
+&lt;p&gt;8. Допреведување на некои нови веб страници ако треба.&lt;/p&gt;
+&lt;p&gt;9. Чекање на билдови, bugzilla...&lt;/p&gt;
+&lt;p&gt;10. Прослава.&lt;/p&gt;
+&lt;p&gt;Можни дополнителни проблеми се сеуште непознаницата за локализација на HELP датотеките за двете (ако ги има), и наоѓање на не-po уредувач што ќе ги чита заебаните (UTF-8) стрингови во .properties датотеките (се разбира ако проценката рече дека нема потреба од .po датотеки за да се добие новиот превод).&lt;/p&gt;
+&lt;p&gt;* DIFF и PATCH најверојатно не се прават со стандардните алатки, туку со некои таму perl скрипти за оваа потреба.&lt;/p&gt;
+&lt;p&gt;Епа толку.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 29 Jul 2005 18:25:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">39 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/39#comments</comments>
+</item>
+</channel>
+</rss>

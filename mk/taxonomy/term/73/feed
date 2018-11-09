@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - презентации</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/73</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Предавања на ФИНКИ #1 и #2</title>
+ <link>http://novica.discindo.org/mk/node/723</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/73&quot;&gt;презентации&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/123&quot;&gt;хакери&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;На 13 и 20 ноември 2012 г. на ФИНКИ се одржаа првите две предавања од &lt;a href=&quot;http://wiki.spodeli.org/ПредавањаФинки&quot;&gt;планираниот распоред&lt;/a&gt; на Слободен софтвер Македонија. &lt;/p&gt;
+&lt;p&gt;Првото беше за општествените последици на слободниот софтвер, второто за етикиата на хакерите. Предававме јас и &lt;a href=&quot;https://damjan.softver.org.mk/&quot;&gt;Дамјан&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Од првото предавање излезе оваа &lt;a href=&quot;http://understandortodraw.tumblr.com/post/35982491040&quot;&gt;ex-post белешка&lt;/a&gt;, а по целовечерна сесија за github презентацијата од второто предавање е доспапна на интернет: &lt;a href=&quot;http://novica.github.com/prezentacii/zosto-hakerite-hakiraat&quot;&gt;Зошто хакерите хакираат?&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 21 Nov 2012 01:37:44 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">723 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/723#comments</comments>
+</item>
+<item>
+ <title>Предавања и презентации</title>
+ <link>http://novica.discindo.org/mk/predavanja</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/73&quot;&gt;презентации&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/90&quot;&gt;лично&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Низ годиниве се насобраа многу презентации и предавања што сум ги одржал во разни прилики. &lt;a href=&quot;http://www.scribd.com/doc/13719323/%D0%9C%D0%BE%D1%98%D0%BE%D1%82-%D0%B1%D0%BB%D0%BE%D0%B3-%D0%B5-%D0%BC%D0%BE%D0%B5%D1%82%D0%BE-%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5&quot;&gt;Повеќето слајдови се достапни на интернет&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Еве го (речиси) целиот список:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;25 април 2013&lt;/strong&gt;&lt;br /&gt;
+Предавање на тема „Социјалните медиуми и новинарството“ на Високата школа за новинарство при МИМ.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15 април 2013&lt;/strong&gt;&lt;br /&gt;
+Предавање за потребите од &lt;a href=&quot;/node/747&quot;&gt;билиотеки&lt;/a&gt; во дигиталното доба на финалната дебата на МОФ.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;20 ноември 2012&lt;/strong&gt;&lt;br /&gt;
+Предавање на тема „&lt;a href=&quot;http://novica.github.com/prezentacii/zosto-hakerite-hakiraat.html&quot;&gt;Зошто хакерите хакираат?&lt;/a&gt;“ на ФИНКИ.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;13 ноември 2012&lt;/strong&gt;&lt;br /&gt;
+Предавање на тема „Слободниот софтвер и неговите општествени последици“ на ФИНКИ, заедно со Дамјан Георгиевски.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;25 февруари 2012&lt;/strong&gt;&lt;br /&gt;
+Говор за акивизмот што треба да се прелее надвор од интернет „&lt;a href=&quot;/node/687&quot;&gt;Отаде тајмлајнот&lt;/a&gt;“ на конференцијата за друштвени медиуми и активизам &lt;a href=&quot;http://www.radiomof.mk/engage/&quot;&gt;Engage&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15 јануари 2011&lt;/strong&gt;&lt;br /&gt;
+Говор за &lt;a href=&quot;/node/567&quot;&gt;ширењето на хакерскиот дух&lt;/a&gt; по повод &lt;a href=&quot;http://ten.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D0%BF%D1%98%D0%B5&quot;&gt;10 годишнината на Википедија&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Декември 2006, 2009 и 2010&lt;/strong&gt;&lt;br /&gt;
+Одржани три презентации на конференцијата &lt;a href=&quot;http://e-society.mk/&quot;&gt;Е-општество&lt;/a&gt;. Во 2006 за слободен софтвер, во 2009 за улогата на поединците и хакерскиот дух на интернет и &lt;a href=&quot;/node/708&quot;&gt;во 2010&lt;/a&gt; за &lt;a href=&quot;http://npss.slobodensoftver.org.mk/&quot;&gt;Националната политика за слободен софтвер&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;24 и 25 ноември 2010&lt;/strong&gt;&lt;br /&gt;
+Одржани две предавања за слободен софтвер на  Институтот за информатика при ПМФ на предметот Професионална етика. Предавањата ги одржавме заедно со &lt;a href=&quot;https://damjan.softver.org.mk/&quot;&gt;Дамјан Георгиевски&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;24 април 2010&lt;/strong&gt;&lt;br /&gt;
+Одржано предавање на тема &lt;a href=&quot;http://novica.softver.org.mk/node/507&quot;&gt;хакерска етика&lt;/a&gt; на Њу Јорк универзитетот во Скопје за постдипломските студии по нови медиуми.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ноември 2003 – Март 2009&lt;/strong&gt;&lt;br /&gt;
+Одржани десет предавања за слободниот софтвер и неговите општествени импликации на студентите по новинарство и политички студии на Правниот факултет, УКИМ Скопје. Предавањата ги одржавме заедно со &lt;a href=&quot;https://damjan.softver.org.mk/&quot;&gt;Дамјан Георгиевски&lt;/a&gt;, а со голема поддршка од Миша Поповиќ.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9 мај 2008&lt;/strong&gt;&lt;br /&gt;
+Одржана презентација на конференцијата Glocal 2.0. Презентацијата насловена „Мојот блог е моето CV... или не“ беше резултат на мало истражување за тоа дали македонските регрутери на работна сила знаат доволно за новите пробиви во социјалниот софтвер и дали ги сметаат за релевантни при утврдувањето на способностите, знаењето, верувањата и ставовите на луѓето. Целиот текст од истражувањето е објавен во „Културен живот“ 1-2/2009. Истражувањето и текстот ги правевме/пишувавме заедно со Марија Костовска. &lt;a href=&quot;http://www.scribd.com/doc/13719323/-&quot;&gt;Трудот е достапен и на инетернет&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15 мај 2007&lt;/strong&gt;&lt;br /&gt;
+Одржана презентација за слободен софтвер, мрежи, заедници и споделување на конференцијата за слободен софтвер организирана од UNDP Македонија. Презентацијата ја направивме заедно со &lt;a href=&quot;https://damjan.softver.org.mk/&quot;&gt;Дамјан Георгиевски&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;27 декември 2005 и 21 декември 2006&lt;/strong&gt;&lt;br /&gt;
+Одржани две предавања за слободен софтвер и пазарна конкуренција за студентите по е-бизнис на Економскиот факултет, УКИМ Скопје. Предавањата ги одржавме заедно со &lt;a href=&quot;http://damjan.softver.org.mk/&quot;&gt;Дамјан Георгиевски&lt;/a&gt; и Игор Стаматовски.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;10 декември 2005&lt;/strong&gt;&lt;br /&gt;
+Одржано предавање за &lt;a href=&quot;/node/93&quot;&gt;слободен софтвер и отворени стандарди&lt;/a&gt; на саемот за локална самоуправа во Скопје.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 13 Jan 2011 17:54:51 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">565 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/predavanja#comments</comments>
+</item>
+<item>
+ <title>Некои мисли за Мозила по самитот</title>
+ <link>http://novica.discindo.org/mk/node/521</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/3&quot;&gt;mozilla&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/36&quot;&gt;идеи&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/73&quot;&gt;презентации&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Ако имаше една тема што се провејуваше на самитот на Мозила во Вистлер, тогаш тоа е инсистирањето на водечките луѓе дека Мозила не е (само) произведувач на софтвер. Она што започнало како проект да се испорача технологија, веќе не е тоа туку повеќе - Мозила сега е за луѓето. &lt;/p&gt;
+&lt;p&gt;Без разлика дали оваа промена е од сега, или пак сега само е за прв пат доволно јасно искомуницирана со јавноста (или пак јас конечно едвај сум ја сфатил), таа носи со себе и практични и идеолошки (во принципите, вредностите) поместувања во она што Мозила го работи.&lt;/p&gt;
+&lt;p&gt;Покрај тоа што е фондација, корпорација и име на производ, Мозила сега е и движење. Движењата обично се поврзуваат со општествени прашања. Така слично како движењето за слободен софтвер, движењето на Мозила за отворен интернет во преден план ги става корисниците, нивните права и слободи, приватност и заштита на интернет. Ако порано придржувањето кон стандардите беше за да им биде полесно на тесниот круг на изработувачи на веб страници, сега тоа за сите луѓе.&lt;/p&gt;
+&lt;p&gt;Ми се чини дека Firefox е сѐ уште многу важен, но ќе биде само додека начинот на кој комуницираме се прави преку прелистувач. Ако технологијата отиде напред кон други и поинакви начини на комуникација и интеракција, а Мозила остане верна на својата идеја за лидер во овозможувањето на околина на интернет која е базирана на вредности и принципи што не се за профит, туку се пред сѐ &lt;em&gt;за луѓето&lt;/em&gt;, тогаш Firefox може да го замениме со следното-најдобро-нешто што ќе се грижи за нас на подеднакво добар начин во рамките на движењето што Мозила сака да го предводи.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 13 Jul 2010 14:36:31 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">521 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/521#comments</comments>
+</item>
+<item>
+ <title>Конференција за слободен софтвер во Косово</title>
+ <link>http://novica.discindo.org/mk/node/461</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/5&quot;&gt;македонија&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/8&quot;&gt;заедница&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/13&quot;&gt;регион&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/31&quot;&gt;конференции&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/73&quot;&gt;презентации&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Утре одам за Пришитна. Таму овој викенд се случува &lt;a href=&quot;http://kosovasoftwarefreedom.org/&quot;&gt;голема конференција за слободен софтвер&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Ова е прва конференција од ваков тип во нашето поблиско соседство. Можеби слична на оваа е само &lt;a href=&quot;http://www.open.hr/dc2009/&quot;&gt;хрватската&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Јас ќе имам мала презентација таму на тема „Заедници кои се распаѓаат“. Ќе зборувам за Македонија и нашата заедница.&lt;/p&gt;
+&lt;p&gt;Во 2002 г. работите околу слободниот софтвер &lt;a href=&quot;http://www.linuxjournal.com/article/6336&quot;&gt; почнаа слично и во Македонија&lt;/a&gt;: со конференција и гостин од ФСФ.&lt;/p&gt;
+&lt;p&gt;Седум години подоцна, „Слободен софтвер Македонија“ сѐ уште не може да добие прописни фондови за работа, сѐ уште нема свои канцеларии и бројот на луѓе кои активно придонесуваат секојдневно се намалува. Секако, нема ни конференција&lt;/p&gt;
+&lt;p&gt;Ќе зборувам за овие неуспеси. Најверојатно ќе биде кратко и можеби и &lt;a href=&quot;http://planet.softver.org.mk/&quot;&gt;другите луѓе&lt;/a&gt; кои патувааат од овде ќе придонесат некако во дебатата.&lt;/p&gt;
+&lt;p&gt;За мене лично, ми се чини дека ова ќе биде последната активност поврзана со слободен софтвер што ќе ја правам локално/регионално.&lt;/p&gt;
+&lt;p&gt;7 години звучи и некако предолго.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 28 Aug 2009 20:09:41 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">461 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/461#comments</comments>
+</item>
+<item>
+ <title>Зошто општествата пропаѓаат?</title>
+ <link>http://novica.discindo.org/mk/node/399</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/69&quot;&gt;општество&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/73&quot;&gt;презентации&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/96&quot;&gt;ted&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Само што го гледав &lt;a href=&quot;http://www.ted.com/index.php/talks/jared_diamond_on_why_societies_collapse.html&quot;&gt;Џеред Дајамонд&lt;/a&gt; на ТЕД. Во својот говор тој објаснува зошто општествата пропаѓаат и дали можат да сторат нешто за да се спасат.&lt;/p&gt;
+&lt;p&gt;Тој има пет критериуми според кои оценува кои се шансите едно општество да преживее, односно спаси од колапс. Решив да видам како се применуваат тие на Македонија. Еве ги:&lt;/p&gt;
+&lt;p&gt;1. Човечко влијание на околината, уништување на природните ресурси (ОКТА, загадени вода, истребена пастрмка, изгорени и исечени шуми (и донекаде пошумени со нови), Велешка топилница, ФЕНИ...)&lt;br /&gt;
+2. Климатски промени: Да.&lt;br /&gt;
+3. Односи со соседни пријателски општества, кои му помагаат на општеството (кога нема поддршка што се случува?): Македонија баш и нема некои традиционални пријатели. Сепак, ако е да се цени преку трговската размена (увоз/извоз), тогаш големиот дефицит е добар индикатор за лоша состојба, како и рецесија во економиите на најголемите партнери.&lt;br /&gt;
+4. Односи со непријателски општества: традиционално непријателски односи со сите комшии, блокиран пристап до странство (шенген),  учество во војни....&lt;br /&gt;
+5. Политички, економски, социјални и културни фактори, кои овозможуваат полесно или потешко решавање на проблемите: национализам, шовинизам, кратковидост...?&lt;/p&gt;
+&lt;p&gt;Дајамонд објаснува и како може некое општество да се спаси, или пак, зошто општествата не се спасуваат. Препорачувам секој да си го погледа предавањето и да оцени какви се шансите на нашето општество.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 27 Nov 2008 21:09:24 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">399 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/399#comments</comments>
+</item>
+<item>
+ <title>Мисли глобално, делувај локално - TED style </title>
+ <link>http://novica.discindo.org/mk/node/396</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/61&quot;&gt;здравје&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/71&quot;&gt;видео&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/73&quot;&gt;презентации&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/96&quot;&gt;ted&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;object classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0&quot; width=&quot;432&quot; height=&quot;285&quot; id=&quot;VE_Player&quot; align=&quot;middle&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.videoegg.com/ted/flash/loader.swf&quot; /&gt;&lt;param name=&quot;FlashVars&quot; value=&quot;bgColor=FFFFFF&amp;amp;file=http://static.videoegg.com/ted/movies/YOSSIVARDI-2007_high.flv&amp;amp;autoPlay=false&amp;amp;fullscreenURL=http://static.videoegg.com/ted/flash/fullscreen.html&amp;amp;forcePlay=false&amp;amp;logo=&amp;amp;allowFullscreen=true&quot; /&gt;&lt;param name=&quot;quality&quot; value=&quot;high&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;param name=&quot;bgcolor&quot; value=&quot;#FFFFFF&quot; /&gt;&lt;param name=&quot;scale&quot; value=&quot;noscale&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;window&quot; /&gt;&lt;embed src=&quot;http://static.videoegg.com/ted/flash/loader.swf&quot; flashvars=&quot;bgColor=FFFFFF&amp;amp;file=http://static.videoegg.com/ted/movies/YOSSIVARDI-2007_high.flv&amp;amp;autoPlay=false&amp;amp;fullscreenURL=http://static.videoegg.com/ted/flash/fullscreen.html&amp;amp;forcePlay=false&amp;amp;logo=&amp;amp;allowFullscreen=true&quot; quality=&quot;high&quot; allowscriptaccess=&quot;always&quot; bgcolor=&quot;#FFFFFF&quot; scale=&quot;noscale&quot; wmode=&quot;window&quot; width=&quot;432&quot; height=&quot;285&quot; name=&quot;VE_Player&quot; align=&quot;middle&quot; type=&quot;application/x-shockwave-flash&quot; pluginspage=&quot;http://www.macromedia.com/go/getflashplayer&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;p&gt;
+Патем јас сум горд сопственик на &lt;a href=&quot;http://catalog.belkin.com/IWCatProductPage.process?Product_Id=406175&quot;&gt;Belkin CushTop&lt;/a&gt;. :)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 14 Nov 2008 22:55:41 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">396 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/396#comments</comments>
+</item>
+<item>
+ <title>Опуштено пред последниот ден од Glocal</title>
+ <link>http://novica.discindo.org/mk/node/333</link>
+ <description>&lt;div class=&quot;field field-name-upload field-type-file field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;table class=&quot;sticky-enabled&quot;&gt;
+ &lt;thead&gt;&lt;tr&gt;&lt;th&gt;Прилог&lt;/th&gt;&lt;th&gt;Големина&lt;/th&gt; &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+ &lt;tr class=&quot;odd&quot;&gt;&lt;td&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;File&quot; title=&quot;application/vnd.oasis.opendocument.presentation&quot; src=&quot;/modules/file/icons/x-office-presentation.png&quot; /&gt; &lt;a href=&quot;http://novica.discindo.org/sites/default/files/prezentacija-glocal-2008.odp&quot; type=&quot;application/vnd.oasis.opendocument.presentation; length=608050&quot; title=&quot;prezentacija-glocal-2008.odp&quot;&gt;prezentacija-glocal-2008.odp&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;593.8 KB&lt;/td&gt; &lt;/tr&gt;
+ &lt;tr class=&quot;even&quot;&gt;&lt;td&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://novica.discindo.org/sites/default/files/prezentacija-glocal-2008.pdf&quot; type=&quot;application/pdf; length=449270&quot; title=&quot;prezentacija-glocal-2008.pdf&quot;&gt;prezentacija-glocal-2008.pdf&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;438.74 KB&lt;/td&gt; &lt;/tr&gt;
+ &lt;tr class=&quot;odd&quot;&gt;&lt;td&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://novica.discindo.org/sites/default/files/glocal-2.0-my-blog-is-my-cv15042008.pdf&quot; type=&quot;application/pdf; length=179766&quot; title=&quot;glocal-2.0-my-blog-is-my-cv15042008.pdf&quot;&gt;glocal-2.0-my-blog-is-my-cv15042008.pdf&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;td&gt;175.55 KB&lt;/td&gt; &lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/1&quot;&gt;блог&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/31&quot;&gt;конференции&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/72&quot;&gt;текстови&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/73&quot;&gt;презентации&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Ете и тоа бидна. Презентацијата што требаше да ја направам за Glocal заврши и според коментарите од публиката, замислете, добра била. :)&lt;/p&gt;
+&lt;p&gt;Презентацијата и текстот се закачени за оваа страница.&lt;/p&gt;
+&lt;p&gt;Апстаркт од текстот подолу.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My blog is my CV... or not?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(A paper for &lt;a href=&quot;http://glocalconference.wordpress.com/&quot;&gt;Glocal 2.0&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Social software in most of its forms is predominately used by young people. This is the case with Macedonia as well. More and more people every day start their own blogs or other social software accounts where they publish information that are easily available to the public.&lt;/p&gt;
+&lt;p&gt;The same group of people faces the challenge to find a job after graduation – a task that is considered very difficult in a struggling economy. In recent years HR and employment agencies, as well as in house HR departments in big companies, started to play a bigger role in the overall job hunt in Macedonia. More and more people receive job proposals through these agencies and findthemselves in need to meet the demanding conditions of the labor market.&lt;/p&gt;
+&lt;p&gt;In this pilot research we try to find out whether these two meet and if so what the consequences are. The research was performed through interviews with HR managers in local companies and other professionals whose job is to seek out candidates with a qualified work experience, as well as appropriate background.&lt;/p&gt;
+&lt;p&gt;We tried to learn if Macedonian labor force recruiters know enough about the emerging social software and do they consider it to be a valuable resource in evaluating people&#039;s skills, knowledge, believes and attitudes.&lt;/p&gt;
+&lt;p&gt;With new generations coming out of University and connecting on the Internet, these issues might prove important. We tried to get a sense of what is the situation today and what is to be expected.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 09 May 2008 13:30:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">333 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/333#comments</comments>
+</item>
+<item>
+ <title>Ханс Рослинг на форум на ОЕЦД</title>
+ <link>http://novica.discindo.org/mk/node/262</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/60&quot;&gt;сподели&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/73&quot;&gt;презентации&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Уште една интересна презентација: &lt;a href=&quot;http://www.viddler.com/explore/JesseRobbins/videos/4/&quot;&gt;врска&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Човеков многу си ја сака работата:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;...few people will appreciate the music if I just show them the notes. Most of us need to listen to the music to understand how beautiful it is. But often that&#039;s how we present statistics; we just show the notes we don&#039;t play the music.&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 19 Sep 2007 15:21:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">262 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/262#comments</comments>
+</item>
+<item>
+ <title>Најдобрите презентации на светот</title>
+ <link>http://novica.discindo.org/mk/node/207</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/16&quot;&gt;интернет&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/57&quot;&gt;web2.0&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/73&quot;&gt;презентации&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Натпреварот за најдобра презентација заврши(л). Победниците се објавени.&lt;/p&gt;
+&lt;p&gt;Гај Кавасаки со свој коментар:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The commonality you’ll see in these winners is big fonts, big graphics, and a “storytelling” orientation. These are three crucial qualities of a good presentation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://blog.guykawasaki.com/2007/05/worlds_best_pre.html&quot;&gt;Врска&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 10 May 2007 06:19:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">207 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/207#comments</comments>
+</item>
+</channel>
+</rss>

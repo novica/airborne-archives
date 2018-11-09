@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - l10n</title>
+ <link>http://novica.discindo.org/en/taxonomy/term/2</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>A farewell to l10n</title>
+ <link>http://novica.discindo.org/en/node/753</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Back in 2007 I wrote an essay (in Macedonian) about the &lt;a href=&quot;/node/202&quot;&gt;importance of having localized [free] software&lt;/a&gt;. I don&#039;t remember the details, but I think it is safe to say that in 2007 the Macedonian l10n community was at its best. We were localizing the leading free software projects, and we&#039;ve been doing so for the past 5-6 years. That came to an abrupt stop a year later, in 2008, when a local company, an international foundation and the government &lt;a href=&quot;http://www.slobodensoftver.org.mk/vesti/reakcija_za_tender_za_lokalizacija_edubuntu&quot;&gt;made a deal&lt;/a&gt; to translate all the free software needed for the educational project the government carried out. The deal alienated almost every volunteer working on l10n in the free software community. The only surviving localization project is Mozilla Firefox on which I started working back in 2003 when then Firebird was version 0.7, and together with &lt;a href=&quot;https://damjan.softver.org.mk/&quot;&gt;Damjan&lt;/a&gt;, we&#039;ve worked on that for the past 10 years.&lt;/p&gt;
+&lt;p&gt;My attitude towards translating changed over the years. At the beginning it was fun work in which I learnt new things. After that was a mission to supply as much as free software in Macedonian as possible. The past couple of years have been no to let previous work go to waste. Something that needs to be done until someone else picks up the work. The past couple of weeks I worked on translating FirefoxOS. It seemed like a good idea when I started, but as I translated file by file, I realized that I don&#039;t enjoy in the work anymore. I guess making a major (albeit for a small market) contribution to the newest Mozilla project is a nice way to say goodbye to a decade of work.&lt;/p&gt;
+&lt;p&gt;I would like to use the time previously spent on localization to learn new things. I think that the work Mozilla is doing with &lt;a href=&quot;https://wiki.mozilla.org/Learning/WebLiteracyStandard&quot;&gt;Web Literacy Standard&lt;/a&gt; is very interesting, and maybe I can find a way to contribute to that in a not-l10n way. But maybe I will write about future plans later.&lt;/p&gt;
+&lt;p&gt;At the moment I don&#039;t know of anyone else doing any l10n work. Aslo, I don&#039;t think it is possible to restart that process in Free Software Macedonia. However, although no one is working, I think that there still is an association in the public that FSM is doing l10n work. Moreover, some of the people that used to work, still have a lot authority about these issues. I think that all these things are a big problem.&lt;/p&gt;
+&lt;p&gt;I still think that having localized software is very important. There are plenty of people that don&#039;t speak English. My parents use whatever leftovers of translation still remain in the current GNU/Linux distributions. On the other hand, as far as I know the only company that continuously provides Macedonian translation of some of it products is Microsoft. On the web, Gmail still doesn&#039;t have a Macedonian interface [and Facebook does]. Even without advocating free software, the obvious way to have many localized software packages in small language markets is by translating free software. Now I can just hope that few new people realize that.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 13 Aug 2013 15:58:31 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">753 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/753#comments</comments>
+</item>
+<item>
+ <title>8 години преведување Мозила </title>
+ <link>http://novica.discindo.org/en/node/618</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/90&quot;&gt;лично&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://picasaweb.google.com/lh/photo/wxgUOrryw1yHpST-uWSZWw?feat=embedwebsite&quot;&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/-0P5eRuJVpwk/Td9G1VT5dwI/AAAAAAAAEYs/x9IVx68UdDw/s640/P1080714.JPG&quot; height=&quot;480&quot; width=&quot;640&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/618&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Fri, 27 May 2011 06:39:52 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">618 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/618#comments</comments>
+</item>
+<item>
+ <title>Firefox 4 е објавен</title>
+ <link>http://novica.discindo.org/en/node/593</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/3&quot;&gt;mozilla&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/90&quot;&gt;лично&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://mozilla.blog.mk/2011/03/22/firefox-4-dostapen-i-na-makedonski/&quot;&gt;Прелистувачот&lt;/a&gt; е достапен и на &lt;a href=&quot;https://www.mozilla.com/mk/firefox/&quot;&gt;македонски&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Преведувам(е) веќе осум години!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/593&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Tue, 22 Mar 2011 21:29:19 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">593 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/593#comments</comments>
+</item>
+<item>
+ <title>Firefox 3.5</title>
+ <link>http://novica.discindo.org/en/node/452</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/3&quot;&gt;mozilla&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/16&quot;&gt;интернет&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/20&quot;&gt;firefox&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Излезе &lt;a href=&quot;http://mozilla.com&quot;&gt;Firefox 3.5&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;За да го означам моето дефинитивно заминување од локализациските работи, кликам да го симнам на англиски јазик.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/452&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Tue, 30 Jun 2009 15:55:38 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">452 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/452#comments</comments>
+</item>
+<item>
+ <title>Зошто повеќе не преведувам слободен софтвер?</title>
+ <link>http://novica.discindo.org/en/node/447</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/5&quot;&gt;македонија&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/16&quot;&gt;интернет&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/23&quot;&gt;информациско општество&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/83&quot;&gt;psi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Вчера во проектот &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi&lt;/a&gt; ги испратив последните македонски преводи за најновата верзија 0.13 која треба да биде објавена деновиве. Од многуте проекти за локализација во кои сум учествувал овој за клиентот за Jabber Psi е последниот во кој придонесував.&lt;/p&gt;
+&lt;p&gt;После шест години активно преведување на Firefox, со него се збогував пред неколку месеци кога речиси сѐ беше спремно за верзијата 3.5. Psi го преведував од неговата верзија 0.6 или 0.7, што сметано по една верзија годишно значи дека и на него сум работел најмалку шест години, иако не можам да бидам најсигурен во оваа пресметка.&lt;/p&gt;
+&lt;p&gt;Па, зошто се откажувам од две активности во кои сум вложил толку многу време, а на некој начин и пари?&lt;/p&gt;
+&lt;p&gt;Пресудната причина е што се чувствувам отсечено од општеството. Тешко ми е да одредам за кого или за што би продолжил да преведувам слободен софтвер. Сѐ уште мислам дека преведувањето е корисно за секое општество, а ни оддалеку не помислувам со ова да ми заврши ангажирањето околу слободниот софтвер бидејќи се надевам да придонесувам некако интернационално, но конкретно за моето преведување на македонски јазик веќе не гледам поента.&lt;/p&gt;
+&lt;p&gt;Секако има тука и други причини, на пример, дека тоа дека после 6 или 7 години добро е човек да направи промена и да си најде некое друго хоби. Или пак, оставањето простор други млади луѓе да се зафатат со вакви етаблирани локализациски проекти. Но, ништо не влијае така пресудно како чувството на отсеченост од поширокото опкружување за кое всушност треба да е наменет преведениот софтвер.&lt;/p&gt;
+&lt;p&gt;Не знам дали можам да го објаснам ова некако подобро. Како и да е, беше забавно додека траеше, а преводите се достапни на нив да продолжи да работи секој кој е заинтересиран.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/447&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Wed, 03 Jun 2009 12:52:21 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">447 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/447#comments</comments>
+</item>
+<item>
+ <title>Мизеријата на македонското (интернет) општество</title>
+ <link>http://novica.discindo.org/en/node/409</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/5&quot;&gt;македонија&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/16&quot;&gt;интернет&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/20&quot;&gt;firefox&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Зачудувачки е колку многу џева се крена за една ненамерна грешка на страницата на Mozilla за Firefox на македонски јазик, почнувајќи од бранење на македонштината до ковање теории за грчко-бугарски заговор, а како никој, воопшто никој не реагира на повиците за &lt;a href=&quot;http://mozilla.blog.com.mk/node/198614&quot;&gt;тестирање&lt;/a&gt; и &lt;a href=&quot;http://mozilla.blog.com.mk/node/196447&quot;&gt;превод&lt;/a&gt; на прозводите на Mozilla на македонски јазик.&lt;/p&gt;
+&lt;p&gt;Мизерија.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/409&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Fri, 26 Dec 2008 15:31:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">409 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/409#comments</comments>
+</item>
+<item>
+ <title>Иднината на преводот на Firefox и другите производи на Mozilla </title>
+ <link>http://novica.discindo.org/en/node/401</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/3&quot;&gt;mozilla&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/20&quot;&gt;firefox&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Не знам кои се шансите некој да го следи мојот блог, а да не го следи блогот специјално наменет за вести поврзани со локализацијата на Firefox и сл., па сепак ќе ја пренесам и овде информацијата дека на повидок е пензионирање на досегашниот локализациски тим. Па еве:&lt;/p&gt;
+&lt;p&gt;Сметаме (Новица и Дамјан) дека е згодно да известиме дека не планираме уште долго да се занимаваме со преводите на Firefox и другите производи на Mozilla.&lt;/p&gt;
+&lt;p&gt;Сега го буткаме Firefox 3.1 кој што треба да излезе деновиве, но планови за понатаму немаме.&lt;/p&gt;
+&lt;p&gt;Ова пред сѐ се одразува на иднината на преводот на Thunderbird 3.0 кој исто така треба да излезе скоро, па супер би било ако се јави некој заинтересиран да го прави тоа.&lt;/p&gt;
+&lt;p&gt;Голема поволност е што за разлика од минатото, сега има некои веб алатки за преведување, па сега (би требало да) е далеку поедноставно да се прават преводите. (На пример: &lt;a href=&quot;https://l10n.mozilla.org/narro/narro_project_list.php&quot;&gt;https://l10n.mozilla.org/narro/narro_project_list.php&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;Aко има заинтересирани може да потрошиме и некој ден на обука за тоа како функционира системот на Mozilla, но за тоа потоа.&lt;/p&gt;
+&lt;p&gt;Во блиска иднина, очекувајте известување за тестирање на Firefox 3.1.&lt;/p&gt;
+&lt;p&gt;Објавено на: &lt;a href=&quot;http://mozilla.blog.com.mk/node/196447&quot;&gt;http://mozilla.blog.com.mk/node/196447&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/401&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Tue, 02 Dec 2008 19:38:37 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">401 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/401#comments</comments>
+</item>
+<item>
+ <title>Psi</title>
+ <link>http://novica.discindo.org/en/psi</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/83&quot;&gt;psi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Информациите на оваа страница можеби се застарени. Веќе подолго време не се грижам за преводот на Psi.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Последната верзија на Psi, за која водам посебна (локализациска) евиденција, е 0.13 од јуни 2009 г.&lt;/p&gt;
+&lt;p&gt;Psi е уште едно програмче чиј превод го одржував сѐ до верзијата 0.13 во јуни 2009 г. Почнав некаде во верзија 0.6 или 0.7 и не се сеќавам која година беше тоа. :)&lt;/p&gt;
+&lt;p&gt;Домашната страница на Psi е &lt;a href=&quot;http://www.psi-im.org/&quot;&gt;psi-im.org&lt;/a&gt; и таму може да ја &lt;a href=&quot;http://www.psi-im.org/download&quot;&gt;најдете&lt;/a&gt; неговата најнова верзија. За преводите, доколку ги нема на страницата за преземање, можете да прашате на &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;форумот&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Psi е клиент за отворениот протокол за IM (брзи пораки) &lt;a href=&quot;http://softver.org.mk/damjan/jabber&quot;&gt;Jabber&lt;/a&gt;. Благодарение на отвореноста Jabber добива голема популарност, и клиентите се вистински швајцарски ножиња. Jabber сервер може да покрене секој со постојана Интернет врска, а разните транспорти овозможуваат комуникација и со другите IM мрежи како AIM, ICQ или MSN.&lt;/p&gt;
+&lt;p&gt;Ова значи дека доколку се одлучите за некој Jabber клиент (а Psi е еден од најдобрите), тогаш ќе можете сите другарчиња да си муабетите преку една апликација, и ако одлучите да се врзете на некој македонски Jabber сервер, муабетите нема да ви патуваат до Америка и назад, кога зборувате на релација Влае-Аеродром, или Тетово-Битола.&lt;/p&gt;
+&lt;p&gt;Да се вратам на преводот. Ако најдете некоја грешка или имате некоја забелешка за преводот истата може да ја пријавите на &lt;a href=&quot;http://bugs.softver.org.mk/&quot;&gt;страниците на Слободен софтвер Македонија&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ете така, уживајте во Psi.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/psi&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Mon, 08 Sep 2008 18:43:16 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">378 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/psi#comments</comments>
+</item>
+<item>
+ <title>Psi 0.12</title>
+ <link>http://novica.discindo.org/en/node/356</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/83&quot;&gt;psi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Вчера излезе Psi 0.12.&lt;/p&gt;
+&lt;p&gt;Преводот на македонски како и секогаш е достапен со новата верзија.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://psi-im.org/download/&quot;&gt;Место за преземање&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/356&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Fri, 08 Aug 2008 12:23:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">356 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/356#comments</comments>
+</item>
+<item>
+ <title>Република Конфликт на интереси</title>
+ <link>http://novica.discindo.org/en/node/349</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/7&quot;&gt;2с.мк&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/8&quot;&gt;заедница&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/37&quot;&gt;дебати&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Неколку дена пред да заврши рокот за тенедерот за локализација за слободен софтвер за училиштата кој го организира &lt;a href=&quot;http://www.pep.org.mk&quot;&gt;PEP&lt;/a&gt; заедно со USAID и Министерството за образование и наука на Р. Македонија, &lt;a href=&quot;http://slobodensoftver.org.mk&quot;&gt;Слободен софтвер Македонија&lt;/a&gt; се обрати до проектот со цел да ги пренесе &lt;a href=&quot;http://slobodensoftver.org.mk/vesti/reakcija_za_tender_za_lokalizacija_edubuntu&quot;&gt;своите забелешки&lt;/a&gt; во врска со тендерот и да објасни како тоа може негативно да влијае на пошироката заедница на слободен софтвер во Р. Македонија.&lt;/p&gt;
+&lt;p&gt;Барањето за средба со претставниците на PEP беше одбиено од нивна страна бидејќи тендерската процедура била во тек и претставувало конфликт на интереси да се состануваат со потенцијален учесник на тендерот, а како таков ја препознале Слободен софтвер Македонија.&lt;/p&gt;
+&lt;p&gt;Денес, според &lt;a href=&quot;http://hedona.on.net.mk/pipermail/ossm-members/2008-July/009093.html&quot;&gt;речиси официјалните информации&lt;/a&gt;, дознавам дека друштвото „Генреп“ го добило тендерот. Затоа сметам дека потребно да прибелeжам дека еден од &lt;a href=&quot;http://www.genrepsoft.com/index.php?pr=People&quot;&gt;водечките луѓе на оваа компанија&lt;/a&gt;, Климент Симончев е истиот човек кој ја има пишувано &lt;a href=&quot;http://schools.edu.mk/e-school/mod/resource/view.php?id=98&quot;&gt;Kонцептуалната стратегија&lt;/a&gt; за употреба на софтвер со отворен код во училиштата (изработена исто така во соработка со USAID и МОН), во која се наоѓаат многу програми кои тој ги препорачува за употреба во училиштата, а кои пак се исто така дел од тендерот кој го распиша PEP.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/349&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Tue, 22 Jul 2008 14:28:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">349 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/349#comments</comments>
+</item>
+</channel>
+</rss>

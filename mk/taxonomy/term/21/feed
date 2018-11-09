@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - openoffice.org</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/21</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Упатства за ОО.о 2.0</title>
+ <link>http://novica.discindo.org/mk/node/57</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/21&quot;&gt;openoffice.org&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/24&quot;&gt;упатства&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.linux.com/&quot;&gt;Newsforge (сега linux.com)&lt;/a&gt; има сторија (мртва врска) со упатства за OpenOffice.org 2.0 направени во флеш. Сега, веста додуше си е и реклама за некоја книга што треба да излезе наскоро, но она што ми фати око е дека самите упатства се под &lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/2.5/&quot;&gt;Creative Commons лиценца&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ова можеби значи дека некои наши шизици може (легално!) да си погираат со овие и од 11 видеа за ОО.о на англиски јазик да добиеме 11 видеа на македонски јазик. Јас додуше немам појма од флешови и такви чуда, ама ете се надевам дека ова е и технички изводливо.&lt;/p&gt;
+&lt;p&gt;ПС. Аетеров (софтверчево за мојот блог) нема можност за коментари (што често ми се чини како супер фичр). Како и да е, добив некои усни коментари за последниот мој текст (Леб и игри!), за делот дека интернет е за забава. За да не бидам разбран погрешно, не мислам дека интернет е *само* за забава, ами *пред се* за забава - и тоа забава сфатена во најшироката смисла на зборот. Но, поентата и не беше да дискутирам за тоа за што е интернет, ами за тоа дека &lt;strong&gt;достапноста на владини веб сервиси на интернет ќе придонесе исто онолку во ширењето на истиот, колку што достапноста на собранискиот канал продонесува во ширењето на кабелските приклучоци&lt;/strong&gt;. Ете така.&lt;/p&gt;
+&lt;p&gt;ПС.2 Ако веќе одите на Newsforge, ѕирнете го и &lt;a href=&quot;http://archive09.linux.com/articles/49533?tid=152&amp;amp;tid=31&quot;&gt;ова&lt;/a&gt;. Текстот е средно интересен, али дискусијата под него е баш забавна. :)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 12 Nov 2005 10:46:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">57 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/57#comments</comments>
+</item>
+<item>
+ <title>Маратон</title>
+ <link>http://novica.discindo.org/mk/node/46</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/8&quot;&gt;заедница&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/21&quot;&gt;openoffice.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Иако маратон некогаш се однесува на било кој атлетички настан кој бара голема издржливост, поконкретно маратон се однесува на тркачки настан од 42 195 метри.&lt;/p&gt;
+&lt;p&gt;Оваа реченица е неспретен превод од Википедија, слободна енциклопедија. &lt;a href=&quot;http://en.wikipedia.org/wiki/Marathon_%28sport%29&quot;&gt;en.wikipedia.org/wiki/Marathon_sport&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ние преведуваме нешто повеќе илјади стрингови (околу 50 000) од OpenOffice.org 2.0, на долги патеки... каков настан!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 18 Sep 2005 04:10:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">46 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/46#comments</comments>
+</item>
+<item>
+ <title>OpenOffice.org 2.0 на македонски</title>
+ <link>http://novica.discindo.org/mk/node/20</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/8&quot;&gt;заедница&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/21&quot;&gt;openoffice.org&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Го пратив ова на листа, па си викам ај и овде, колку да ми живне блогов. :)&lt;/p&gt;
+&lt;p&gt;OOo 2.0 е (скоро) во string freeze. Од една до друга од т.н. milestone верзии пред 2.0 има само мали промени. Од секој milestone има готови POT датотеки за ОО и за help-от. Вкупниот број стрингови за двете е 52 000 (педесет и две илјади). Тоа 7+ пати повеќе од Мозила suite-от.&lt;/p&gt;
+&lt;p&gt;Проценките велат дека само ОО може да се преведе од 4 луѓе за 4 месеци, под претпоставка дека тие ќе имаат добар Glossary (нели, ние го немаме направено), и дека ќе работат само на ОО. Во наши услови јас би додал + 4 за help-от + еден месец за мрза, па така би имале ОО 2.0 на македонски за едно пет месеци ако почнеме сега.&lt;/p&gt;
+&lt;p&gt;Прашањето дали стариот превод може да се користи исто така треба да се разгледа. Стариот превод е касапница, и никој го нема одржувано од јануари 2003 кога беше маратонот. Значи треба да процениме дали ќе биде попрактично да се почне од почеток, или па да се прави rough translation на новите po датотеки.&lt;/p&gt;
+&lt;p&gt;Исто така треба да видиме дали некои фирми би го поддржале локализирањето на ОО. Први на ум ми паѓаат Неоком, бидејќи тие продаваа прилично машини со единицата на македонски, па можеби би имале интересе и од двојката. Има други фирми кои го правеле истото? Како и да е, доколку на 8 кои ќе работат 5 месеци им се плаќаат стандардните 10 000 што доаѓаат за хонорарна работа (или еве 9 000 според просечната плата во ИТ индустријата во Македонија) потребни се помеѓу 6 и 7 илјади евра.&lt;/p&gt;
+&lt;p&gt;Секако во предвид треба да се земе и правењето/надградбата на spellcheck-ерот, како и усовршување на макрото за конверзија од YUSCII во UTF-8.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 29 Jan 2005 10:23:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">20 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/20#comments</comments>
+</item>
+</channel>
+</rss>

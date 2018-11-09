@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - игри</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/64</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Уште една игра за GNU/Linux</title>
+ <link>http://novica.discindo.org/mk/node/153</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/25&quot;&gt;gnu-linux&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/64&quot;&gt;игри&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Не дека би ја играл, но за оние кои се љубители на 3-д замислени светови, можеби ќе биде интересно да дознаат дека од &lt;a href=&quot;http://secondlife.com/&quot;&gt;Second Life&lt;/a&gt; (што е &lt;a href=&quot;http://secondlife.com/whatis/&quot;&gt;Second Life?&lt;/a&gt;) одлучиле да го &lt;a href=&quot;http://blog.secondlife.com/2007/01/08/embracing-the-inevitable/&quot;&gt;прифатат неизбежното&lt;/a&gt; и да го издадат клиентот за играта под GNU GPL v.2. Така, веројатно за некое време, ќе се појави и клиент што ќе си работи убаво во GNU/Linux.&lt;/p&gt;
+&lt;p&gt;Уште една игрица во инаку досадниот за гејмери оперативен систем.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 20 Jan 2007 08:33:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">153 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/153#comments</comments>
+</item>
+</channel>
+</rss>

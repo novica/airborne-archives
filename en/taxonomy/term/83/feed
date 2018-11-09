@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - psi</title>
+ <link>http://novica.discindo.org/en/taxonomy/term/83</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Зошто повеќе не преведувам слободен софтвер?</title>
+ <link>http://novica.discindo.org/en/node/447</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/5&quot;&gt;македонија&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/16&quot;&gt;интернет&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/23&quot;&gt;информациско општество&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/83&quot;&gt;psi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Вчера во проектот &lt;a href=&quot;http://psi-im.org&quot;&gt;Psi&lt;/a&gt; ги испратив последните македонски преводи за најновата верзија 0.13 која треба да биде објавена деновиве. Од многуте проекти за локализација во кои сум учествувал овој за клиентот за Jabber Psi е последниот во кој придонесував.&lt;/p&gt;
+&lt;p&gt;После шест години активно преведување на Firefox, со него се збогував пред неколку месеци кога речиси сѐ беше спремно за верзијата 3.5. Psi го преведував од неговата верзија 0.6 или 0.7, што сметано по една верзија годишно значи дека и на него сум работел најмалку шест години, иако не можам да бидам најсигурен во оваа пресметка.&lt;/p&gt;
+&lt;p&gt;Па, зошто се откажувам од две активности во кои сум вложил толку многу време, а на некој начин и пари?&lt;/p&gt;
+&lt;p&gt;Пресудната причина е што се чувствувам отсечено од општеството. Тешко ми е да одредам за кого или за што би продолжил да преведувам слободен софтвер. Сѐ уште мислам дека преведувањето е корисно за секое општество, а ни оддалеку не помислувам со ова да ми заврши ангажирањето околу слободниот софтвер бидејќи се надевам да придонесувам некако интернационално, но конкретно за моето преведување на македонски јазик веќе не гледам поента.&lt;/p&gt;
+&lt;p&gt;Секако има тука и други причини, на пример, дека тоа дека после 6 или 7 години добро е човек да направи промена и да си најде некое друго хоби. Или пак, оставањето простор други млади луѓе да се зафатат со вакви етаблирани локализациски проекти. Но, ништо не влијае така пресудно како чувството на отсеченост од поширокото опкружување за кое всушност треба да е наменет преведениот софтвер.&lt;/p&gt;
+&lt;p&gt;Не знам дали можам да го објаснам ова некако подобро. Како и да е, беше забавно додека траеше, а преводите се достапни на нив да продолжи да работи секој кој е заинтересиран.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/447&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Wed, 03 Jun 2009 12:52:21 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">447 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/447#comments</comments>
+</item>
+<item>
+ <title>Psi</title>
+ <link>http://novica.discindo.org/en/psi</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/83&quot;&gt;psi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Информациите на оваа страница можеби се застарени. Веќе подолго време не се грижам за преводот на Psi.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Последната верзија на Psi, за која водам посебна (локализациска) евиденција, е 0.13 од јуни 2009 г.&lt;/p&gt;
+&lt;p&gt;Psi е уште едно програмче чиј превод го одржував сѐ до верзијата 0.13 во јуни 2009 г. Почнав некаде во верзија 0.6 или 0.7 и не се сеќавам која година беше тоа. :)&lt;/p&gt;
+&lt;p&gt;Домашната страница на Psi е &lt;a href=&quot;http://www.psi-im.org/&quot;&gt;psi-im.org&lt;/a&gt; и таму може да ја &lt;a href=&quot;http://www.psi-im.org/download&quot;&gt;најдете&lt;/a&gt; неговата најнова верзија. За преводите, доколку ги нема на страницата за преземање, можете да прашате на &lt;a href=&quot;http://forum.psi-im.org/&quot;&gt;форумот&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Psi е клиент за отворениот протокол за IM (брзи пораки) &lt;a href=&quot;http://softver.org.mk/damjan/jabber&quot;&gt;Jabber&lt;/a&gt;. Благодарение на отвореноста Jabber добива голема популарност, и клиентите се вистински швајцарски ножиња. Jabber сервер може да покрене секој со постојана Интернет врска, а разните транспорти овозможуваат комуникација и со другите IM мрежи како AIM, ICQ или MSN.&lt;/p&gt;
+&lt;p&gt;Ова значи дека доколку се одлучите за некој Jabber клиент (а Psi е еден од најдобрите), тогаш ќе можете сите другарчиња да си муабетите преку една апликација, и ако одлучите да се врзете на некој македонски Jabber сервер, муабетите нема да ви патуваат до Америка и назад, кога зборувате на релација Влае-Аеродром, или Тетово-Битола.&lt;/p&gt;
+&lt;p&gt;Да се вратам на преводот. Ако најдете некоја грешка или имате некоја забелешка за преводот истата може да ја пријавите на &lt;a href=&quot;http://bugs.softver.org.mk/&quot;&gt;страниците на Слободен софтвер Македонија&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ете така, уживајте во Psi.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/psi&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Mon, 08 Sep 2008 18:43:16 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">378 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/psi#comments</comments>
+</item>
+<item>
+ <title>Psi 0.12</title>
+ <link>http://novica.discindo.org/en/node/356</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/83&quot;&gt;psi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Вчера излезе Psi 0.12.&lt;/p&gt;
+&lt;p&gt;Преводот на македонски како и секогаш е достапен со новата верзија.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://psi-im.org/download/&quot;&gt;Место за преземање&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/356&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Fri, 08 Aug 2008 12:23:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">356 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/356#comments</comments>
+</item>
+<item>
+ <title>Psi 0.11</title>
+ <link>http://novica.discindo.org/en/node/273</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/2&quot;&gt;l10n&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/9&quot;&gt;слободен софтвер&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/en/taxonomy/term/83&quot;&gt;psi&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;После долг и бавен развој излезе Psi 0.11. Имаат и нова, разубавена веб страница: &lt;a href=&quot;http://psi-im.org&quot;&gt;врска&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Јас го склопив и преводот, па кој сака може да го &lt;a href=&quot;http://psi-im.org/download/&quot;&gt;земе&lt;/a&gt;, разгледа и евентуално &lt;a href=&quot;http://bugs.softver.org.mk/index.php?tasks=all&amp;amp;project=10&quot;&gt;пријави грешки&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Веројатно деновиве преводот ќе се најде и на домашната страница на Psi.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;mk first last&quot;&gt;&lt;a href=&quot;/mk/node/273&quot; class=&quot;language-link&quot; xml:lang=&quot;mk&quot;&gt;Македонски&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+ <pubDate>Tue, 23 Oct 2007 10:34:00 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">273 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/en/node/273#comments</comments>
+</item>
+</channel>
+</rss>

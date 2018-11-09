@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://novica.discindo.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>airborne - дик</title>
+ <link>http://novica.discindo.org/mk/taxonomy/term/223</link>
+ <description></description>
+ <language>mk</language>
+<item>
+ <title>Моделирање на изборниот процес преку увид во личните податоци на граѓаните</title>
+ <link>http://novica.discindo.org/mk/node/845</link>
+ <description>&lt;section class=&quot;field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above view-mode-rss&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/h2&gt;&lt;ul class=&quot;field-items&quot;&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/5&quot;&gt;македонија&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/222&quot;&gt;избори&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/223&quot;&gt;дик&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/mk/taxonomy/term/224&quot;&gt;список&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden view-mode-rss&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Државната изборна комисија го објавува избрирачкиот список во формат што го прави достапен секому. Пред еден месец овој превид го &lt;a href=&quot;https://leconfig.wordpress.com/2016/02/10/kopija-izbirachki-spisok/&quot;&gt;пронајде&lt;/a&gt; Калина Зографска. Денес (3 март 2016) ДИК повторно го &lt;a href=&quot;http://a1on.mk/wordpress/archives/586919&quot;&gt;промовираше&lt;/a&gt; сајтот за избирачкиот список.  &lt;/p&gt;
+&lt;p&gt;Сајтот изгледа поинаку од претходно, но неговите функционалности (или подобро речено нефункционалности) се исти. Било кој може да внесе матичен број и да ги добие податоците за лицето носител на тој број: неговото име и презиме, адресата на живеење, општина и избирачкото место. &lt;/p&gt;
+&lt;p&gt;Матичните броеви во Македонија се пресметуваат по &lt;a href=&quot;https://en.wikipedia.org/wiki/Unique_Master_Citizen_Number&quot;&gt;формула&lt;/a&gt;. Компјутерска програма може да внесува точни матични броеви во формуларот на ДИК и да ги добива назад информациите за сите граѓани. Компјутерска програма може да ги &lt;a href=&quot;http://www.boyter.org/decoding-captchas/&quot;&gt;погодува&lt;/a&gt; и бројките (т.н. CAPTCHA) што служат како некаква заштита.&lt;/p&gt;
+&lt;p&gt;Пребарувањето може да се прави по матичен број, по име и презиме и по адреса. Пребарувањето по име и презиме ја дава адресата и куќниот број во резултати. Пребарувањето по матичен број го дава името и презимето во резултати. Пребарувањето по адреса ги дава сите лица што живеат на таа адреса во резултати. Сите пребарувања може да се автоматизираат со компјутерски операции. &lt;/p&gt;
+&lt;p&gt;Со овие податоци може да дознаете каде живеат луѓето (адреси), кои се нивните брачни другари (исти/слични презимиња), кои се нивните полнолетни деца и родители (разлика во години по матични броеви), кои се нивните родни места, ако се различни од местата на живеење (од податоците на матичниот број), и кои се нивните гласачки места. Податоците можат да откријат и други (неизбирачки информации), како на пример закупски односи ако има различни презимиња/матични броеви на иста адреса.&lt;/p&gt;
+&lt;p&gt;Ако сте политичка партија што може да најми програмери да го направат сето ова, тогаш можете да имате целосен пристап до избирачкиот список и сите релации помеѓу луѓето, да ги вкрстувате тие податоци со вашите членски списоци, и/или (во зависност од тоа дали сте партија на власт) податоците да ги вкрстувате со други податоци што ви се достапни (како на пример лица вработени во државната администрација). На крај, со добро разработен модел можете да имате целосна контрола над изборниот процес. &lt;/p&gt;
+&lt;p&gt;Дали некој ова го има направено е прашање кое што останува отворено. До тој одговор, стојат две помали прашања како: зошто ДИК два пати во еден месец објавува практично ист сајт со податоци на граѓаните; и зошто законодавецот (да не речам партиите преку пратениците) смислиле решение што ги става податоците на граѓаните на увид, со опција тие да бидат тргнати по барање на граѓаните, наместо обратно.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 03 Mar 2016 17:36:55 +0000</pubDate>
+ <dc:creator>Новица</dc:creator>
+ <guid isPermaLink="false">845 at http://novica.discindo.org</guid>
+ <comments>http://novica.discindo.org/mk/node/845#comments</comments>
+</item>
+</channel>
+</rss>
